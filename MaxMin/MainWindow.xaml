@@ -1,0 +1,21 @@
+﻿<Window x:Class="MaxMin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MaxMin"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="Num1" Width="120" Height="25" Margin="10,10,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox x:Name="Num2" Width="120" Height="25" Margin="10,40,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox x:Name="Num3" Width="120" Height="25" Margin="10,70,0,0" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+        <RadioButton x:Name="MaxRadio" Content="Максимум" Margin="150,10,10,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="MinRadio" Content="Минимум" Margin="150,40,10,0" VerticalAlignment="Top"/>
+
+        <Button Content="Вычислить" Width="120" Height="30" Margin="10,110,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Calculate_Click"/>
+
+        <TextBlock x:Name="ResultText" Width="200" Height="30" Margin="10,150,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14"/>
+    </Grid>
+</Window>
