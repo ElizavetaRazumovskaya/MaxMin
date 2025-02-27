@@ -17,6 +17,10 @@
 ![image](https://github.com/user-attachments/assets/8216683c-5ee1-455c-af4e-19bdd9f1254d)
 ![image](https://github.com/user-attachments/assets/30eebc3f-1403-4814-b248-b2ecf09837cd)
 ![image](https://github.com/user-attachments/assets/b5910ba0-fad4-4d1e-b463-b1a24cc32652)
+![image](https://github.com/user-attachments/assets/3cec0d2e-aaee-40ee-a922-cad5c907c1fd)
+![image](https://github.com/user-attachments/assets/4f0db6cc-f891-4a59-943d-e661649bbad0)
+
+
 
 ## Автор
 **Афанасьев Иван и Разумовская Елизавета**
